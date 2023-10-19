@@ -2,7 +2,7 @@
 
 ### *3rd Year Project*
 ---
-Documore is a self-hosted documentation site that allows you to create, manage and share your documentation. It's perfect for developers, technical writers, and anyone else who needs to create and share documentation. And the best part is, it's open source and free!
+[Documore is a self-hosted documentation site that allows you to create, manage and share your documentation. It's perfect for developers, technical writers, and anyone else who needs to create and share documentation. And the best part is, it's open source and free!]
 
 With Documore, you can create a document and share it via a URL within minutes. You can add admins that can work on any documents with you, or even let them create their own documents. It also includes an API, so you can manage your documents and admins via another application.
 
